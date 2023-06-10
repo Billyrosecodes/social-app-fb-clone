@@ -487,6 +487,7 @@ nav{
 
 
 /* -- profile page  */
+
 .profile-container{
     padding: 20px 15%;
     color: #626262;
@@ -523,7 +524,7 @@ nav{
      
 }
 .pd-row div img{
-    width: 25%;
+    width: 25px;
     border-radius: 50%;
     margin-top: 12px;
 }
@@ -542,7 +543,7 @@ nav{
 }
 .pd-right button img{
     height: 15px;
-    margin-left: 10px;
+    margin-right: 10px;
 
 }
 .pd-right button:first-child{
