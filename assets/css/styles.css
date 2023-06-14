@@ -672,4 +672,20 @@ nav{
             width: 110px;
             margin-right: 20px;
         }
+        .nav-left ul li img{
+            width: 20px;
+            margin: 0 8px;
+        }
+        .nav-user-icon img{
+            width: 30px;
+        }
+        .nav-user-icon{
+            margin-left: 0;
+        }
+        .add-post-links{
+            flex-wrap: wrap;
+        }
+        .main-content{
+            flex-basis: 100%;
+        }
     }
