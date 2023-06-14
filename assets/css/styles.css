@@ -688,4 +688,23 @@ nav{
         .main-content{
             flex-basis: 100%;
         }
+        .story img{
+            width: 30px;
+            border-width: 3px;
+        }
+        .story p{
+            font-size: 10px;
+        }
+        .story.story1 img{
+            width: 30px;
+            bottom: 30px;
+        }
+        .add-post-links a img{
+            width: 16px;
+            margin-right: 5px;
+        }
+        .post-input-container{
+            padding-left: 0;
+            
+        }
     }
