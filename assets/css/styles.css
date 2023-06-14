@@ -652,3 +652,24 @@ nav{
     bottom: 0;
     left: 0;
 }
+
+    /* ---------media query for homepage---------- */
+
+    @media (max-width: 900px){
+        .right-sidebar{
+            display: none;
+        }
+        .left-sidebar{
+            display: none;
+        }
+        nav{
+            flex-wrap: none;
+        }
+        .search-box{
+            display: none;
+        }
+        .logo{
+            width: 110px;
+            margin-right: 20px;
+        }
+    }
